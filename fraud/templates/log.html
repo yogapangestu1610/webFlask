@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <th>
+            <tr>
+                <td>No</td>
+                <td>Tanggal</td>
+                <td>Waktu</td>
+                <td>Level</td>
+                <td>Keterangan</td>
+            </tr>
+        </th>
+        <tbody>
+            {% for line in lines %}
+            <tr>
+                <td>{{loop.index}}</td>
+                {% for word in line %}
+                    <td>{{ word.split }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

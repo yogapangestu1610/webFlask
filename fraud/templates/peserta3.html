@@ -1,0 +1,100 @@
+{% extends 'index.html' %}
+
+{% block body %}
+
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Daftar Peserta</h1>
+    </div>
+    <div id="Loader">
+        <div class="d-flex justify-content-center">
+            <div class="spinner-border text-success"  style="width: 10rem; height: 10rem;" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <br /><br />
+        <div class="card">
+            <div class="card-header">
+                Table Siswa
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered table-sm" id="myTable">
+                    <thead class="table table-dark">
+                        <tr>
+                            <th scope="col">No.</th>
+                            <th scope="col">No Induk</th>
+                            <th scope="col">Nama Siswa</th>
+                            <th scope="col">Tanggal Ujian</th>
+                            <th scope="col">Jenis Kelamin</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Kelas Siswa</th>
+                            <th scope="col">Ruang & No.Ujian</th>
+                            <th scope="col">Keterangan</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for dt in data %}
+                            <tr>
+                                <th scope="row">{{loop.index}}</th>
+                                <td>{{dt.nama}}</td>
+                                <td>{{dt.tl}}</td>
+                                <td>{{dt.tg_lahir}}</td>
+                                <td>{{dt.jk}}</td>
+                                <td>{{dt.status}}</td>
+                                <td>{{dt.profesi}}</td>
+                                <td>{{dt.alamat}}</td>
+                                <td>{{dt.keterangan}}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+{% block tail %}
+	<script>
+		document.addEventListener("DOMContentLoaded", () => {
+			document.querySelector("#Daftar").onsubmit = async (e) => {
+				e.preventDefault();
+				const req = new XMLHttpRequest();
+				req.onload = () => {
+					const data = JSON.parse(req.responseText);
+					if(data.success) {
+						alert("Data berhasil di tambahkan!");
+						location.reload();
+					} else {
+						alert("Ada trouble");
+					}
+				}
+				const form = document.querySelector("#Daftar");
+				const datanya = new FormData(form);
+				await req.open("POST", "/tambahdaftar", true);
+				req.send(datanya);
+			}
+		});
+		
+		document.addEventListener("DOMContentLoaded", () => {
+			document.querySelector("#EDaftar").onsubmit = async (e) => {
+				e.preventDefault();
+				const req = new XMLHttpRequest();
+				req.onload = () => {
+					const data = JSON.parse(req.responseText);
+					if(data.success) {
+						alert("Data berhasil di edit!");
+						location.reload();
+					} else {
+						alert("Ada trouble");
+					}
+				}
+				const form = document.querySelector("#EDaftar");
+				const datanya = new FormData(form);
+				const nilai = document.querySelector("#eDftr").value;
+				await req.open("POST", `/editdaftar/${nilai}`, true);
+				req.send(datanya);
+			}
+		});
+	</script>
+{% endblock %}
+{% endblock %}

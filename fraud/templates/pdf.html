@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Laporan Ujian</h1>
+		<table class="table">
+		  <thead>
+			<tr>
+				<th scope="col">No.</th>
+				<th scope="col">No Induk</th>
+				<th scope="col">Ruang & No.Ujian</th>
+				<th scope="col">Status</th>
+				<th scope="col">Catatan</th>
+				<th scope="col">Keterangan</th>
+				<th scope="col">Tanggal</th>
+			</tr>
+		  </thead>
+		  <tbody>
+		   {% for d in datanya %}
+			<tr>
+			  <th scope="row">{{loop.index}}</th>
+			  <td>{{d.nama}}</td>
+			  <td>{{d.diagnosa}}</td>
+			  <td>{{d.user.username}}</td>
+			  <td>{{d.keluhan}}</td>
+			  <td>{{d.resep}}</td>
+			  <td>{{d.tanggal}}</td>
+			</tr>
+		   {% endfor %}
+		  </tbody>
+		</table>
+  </body>
+</html>

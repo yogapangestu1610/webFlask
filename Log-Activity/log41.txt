@@ -1,0 +1,567 @@
+2022-01-03 17:43:35 INFO     Lihat Bawah
+2022-01-03 17:43:35 DEBUG    Face Not Found
+2022-01-03 17:43:35 DEBUG    Face Not Found
+2022-01-03 17:43:35 INFO     Lihat Bawah
+2022-01-03 17:43:35 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:36 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:37 INFO     Lihat Kanan
+2022-01-03 17:43:37 INFO     Lihat Kanan
+2022-01-03 17:43:37 INFO     Lihat Kanan
+2022-01-03 17:43:37 INFO     Lihat Kanan
+2022-01-03 17:43:37 INFO     Lihat Kanan
+2022-01-03 17:43:37 INFO     Lihat Bawah
+2022-01-03 17:43:38 INFO     Lihat Bawah
+2022-01-03 17:43:38 INFO     Lihat Bawah
+2022-01-03 17:43:38 INFO     Lihat Bawah
+2022-01-03 17:43:38 INFO     Lihat Bawah
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:38 INFO     Lihat Kanan
+2022-01-03 17:43:39 INFO     Lihat Kanan
+2022-01-03 17:43:39 INFO     Lihat Kanan
+2022-01-03 17:43:39 INFO     Lihat Kanan
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:39 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Bawah
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:40 INFO     Lihat Kanan
+2022-01-03 17:43:41 INFO     Lihat Kanan
+2022-01-03 17:43:41 INFO     Lihat Kanan
+2022-01-03 17:43:41 INFO     Lihat Kanan
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:41 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:42 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Bawah
+2022-01-03 17:43:43 INFO     Lihat Atas
+2022-01-03 17:43:43 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:44 INFO     Lihat Atas
+2022-01-03 17:43:45 INFO     Lihat Atas
+2022-01-03 17:43:45 INFO     Lihat Atas
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:45 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:46 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:47 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     Lihat Bawah
+2022-01-03 17:43:48 INFO     unknown
+2022-01-03 17:43:48 INFO     unknown
+2022-01-03 17:43:48 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     unknown
+2022-01-03 17:43:49 INFO     Lihat Kanan
+2022-01-03 17:43:49 INFO     Lihat Kanan
+2022-01-03 17:43:49 INFO     Lihat Kanan
+2022-01-03 17:43:49 INFO     Lihat Kanan
+2022-01-03 17:43:49 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     Lihat Kanan
+2022-01-03 17:43:50 INFO     unknown
+2022-01-03 17:43:50 INFO     unknown
+2022-01-03 17:43:50 INFO     unknown
+2022-01-03 17:43:50 INFO     unknown
+2022-01-03 17:43:50 DEBUG    Face Not Found
+2022-01-03 17:43:50 DEBUG    Face Not Found
+2022-01-03 17:43:50 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 INFO     unknown
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:51 INFO     Lihat Bawah
+2022-01-03 17:43:51 DEBUG    Face Not Found
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:52 INFO     Lihat Bawah
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 DEBUG    Face Not Found
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:53 INFO     Lihat Bawah
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 INFO     Lihat Bawah
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 INFO     Lihat Bawah
+2022-01-03 17:43:54 INFO     Lihat Bawah
+2022-01-03 17:43:54 DEBUG    Face Not Found
+2022-01-03 17:43:54 INFO     Lihat Bawah
+2022-01-03 17:43:54 INFO     Lihat Bawah
+2022-01-03 17:43:55 INFO     Lihat Bawah
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:55 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 INFO     Lihat Bawah
+2022-01-03 17:43:56 INFO     Lihat Bawah
+2022-01-03 17:43:56 INFO     Lihat Bawah
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 DEBUG    Face Not Found
+2022-01-03 17:43:56 INFO     Lihat Bawah
+2022-01-03 17:43:56 INFO     Lihat Bawah
+2022-01-03 17:43:57 INFO     Lihat Bawah
+2022-01-03 17:43:57 INFO     Lihat Bawah
+2022-01-03 17:43:57 INFO     Lihat Bawah
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:57 DEBUG    Face Not Found
+2022-01-03 17:43:58 DEBUG    Face Not Found
+2022-01-03 17:43:58 DEBUG    Face Not Found
+2022-01-03 17:43:58 INFO     Lihat Bawah
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:58 DEBUG    Face Not Found
+2022-01-03 17:43:58 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:43:59 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 DEBUG    Face Not Found
+2022-01-03 17:44:00 DEBUG    Face Not Found
+2022-01-03 17:44:00 INFO     Lihat Kanan
+2022-01-03 17:44:00 DEBUG    Face Not Found
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Kanan
+2022-01-03 17:44:01 INFO     Lihat Bawah
+2022-01-03 17:44:02 INFO     Lihat Bawah
+2022-01-03 17:44:02 INFO     Lihat Bawah
+2022-01-03 17:44:02 INFO     Lihat Bawah
+2022-01-03 17:44:02 INFO     Lihat Bawah
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:02 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Kanan
+2022-01-03 17:44:03 INFO     Lihat Bawah
+2022-01-03 17:44:03 INFO     Lihat Bawah
+2022-01-03 17:44:03 INFO     Lihat Bawah
+2022-01-03 17:44:03 INFO     Lihat Bawah
+2022-01-03 17:44:03 INFO     Lihat Bawah
+2022-01-03 17:44:03 INFO     unknown
+2022-01-03 17:44:04 INFO     unknown
+2022-01-03 17:44:04 INFO     unknown
+2022-01-03 17:44:04 INFO     unknown
+2022-01-03 17:44:04 INFO     unknown
+2022-01-03 17:44:04 INFO     Lihat Bawah
+2022-01-03 17:44:04 INFO     Lihat Bawah
+2022-01-03 17:44:04 INFO     Lihat Bawah
+2022-01-03 17:44:04 INFO     Lihat Bawah
+2022-01-03 17:44:04 INFO     Lihat Bawah
+2022-01-03 17:44:04 INFO     Lihat Kanan
+2022-01-03 17:44:04 INFO     Lihat Kanan
+2022-01-03 17:44:04 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Kanan
+2022-01-03 17:44:05 INFO     Lihat Bawah
+2022-01-03 17:44:05 INFO     Lihat Bawah
+2022-01-03 17:44:05 INFO     Lihat Bawah
+2022-01-03 17:44:05 INFO     Lihat Bawah
+2022-01-03 17:44:05 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     Lihat Bawah
+2022-01-03 17:44:06 INFO     unknown
+2022-01-03 17:44:06 INFO     unknown
+2022-01-03 17:44:07 INFO     unknown
+2022-01-03 17:44:07 INFO     unknown
+2022-01-03 17:44:07 INFO     unknown
+2022-01-03 17:44:07 INFO     Lihat Bawah
+2022-01-03 17:44:07 INFO     Lihat Bawah
+2022-01-03 17:44:07 INFO     Lihat Bawah
+2022-01-03 17:44:07 INFO     Lihat Bawah
+2022-01-03 17:44:07 INFO     Lihat Bawah
+2022-01-03 17:44:07 DEBUG    Face Not Found
+2022-01-03 17:44:07 DEBUG    Face Not Found
+2022-01-03 17:44:07 INFO     Lihat Kanan
+2022-01-03 17:44:07 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Kanan
+2022-01-03 17:44:08 INFO     Lihat Atas
+2022-01-03 17:44:08 INFO     Lihat Atas
+2022-01-03 17:44:08 INFO     Lihat Atas
+2022-01-03 17:44:08 INFO     Lihat Atas
+2022-01-03 17:44:08 INFO     Lihat Atas
+2022-01-03 17:44:09 INFO     Lihat Kanan
+2022-01-03 17:44:09 INFO     Lihat Kanan
+2022-01-03 17:44:09 INFO     Lihat Kanan
+2022-01-03 17:44:09 INFO     Lihat Kanan
+2022-01-03 17:44:09 INFO     Lihat Kanan
+2022-01-03 17:44:09 INFO     Lihat Atas
+2022-01-03 17:44:09 INFO     Lihat Atas
+2022-01-03 17:44:09 INFO     Lihat Atas
+2022-01-03 17:44:09 INFO     Lihat Atas
+2022-01-03 17:44:09 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     unknown
+2022-01-03 17:44:10 INFO     unknown
+2022-01-03 17:44:10 INFO     unknown
+2022-01-03 17:44:10 INFO     unknown
+2022-01-03 17:44:10 INFO     unknown
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:10 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:11 INFO     Lihat Atas
+2022-01-03 17:44:12 INFO     unknown
+2022-01-03 17:44:12 INFO     unknown
+2022-01-03 17:44:12 INFO     unknown
+2022-01-03 17:44:12 INFO     unknown
+2022-01-03 17:44:12 INFO     unknown
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:12 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Bawah
+2022-01-03 17:44:13 INFO     Lihat Bawah
+2022-01-03 17:44:13 INFO     Lihat Bawah
+2022-01-03 17:44:13 INFO     Lihat Bawah
+2022-01-03 17:44:13 INFO     Lihat Bawah
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:13 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:14 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:15 INFO     Lihat Kanan
+2022-01-03 17:44:16 INFO     Lihat Kanan
+2022-01-03 17:44:16 INFO     unknown
+2022-01-03 17:44:16 INFO     unknown
+2022-01-03 17:44:16 INFO     unknown
+2022-01-03 17:44:16 INFO     unknown
+2022-01-03 17:44:16 INFO     unknown
+2022-01-03 17:44:16 INFO     Lihat Bawah
+2022-01-03 17:44:16 INFO     Lihat Bawah
+2022-01-03 17:44:16 INFO     Lihat Bawah
+2022-01-03 17:44:16 INFO     Lihat Bawah
+2022-01-03 17:44:16 INFO     Lihat Bawah
+2022-01-03 17:44:17 INFO     Lihat Bawah
+2022-01-03 17:44:17 INFO     Lihat Bawah
+2022-01-03 17:44:17 INFO     Lihat Bawah
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:17 DEBUG    Face Not Found
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Bawah
+2022-01-03 17:44:18 INFO     Lihat Kanan
+2022-01-03 17:44:18 INFO     Lihat Kanan
+2022-01-03 17:44:18 INFO     Lihat Kanan
+2022-01-03 17:44:18 INFO     Lihat Kanan
+2022-01-03 17:44:18 INFO     Lihat Kanan
+2022-01-03 17:44:19 INFO     unknown
+2022-01-03 17:44:19 INFO     unknown
+2022-01-03 17:44:19 INFO     unknown
+2022-01-03 17:44:19 INFO     unknown
+2022-01-03 17:44:19 INFO     unknown
+2022-01-03 17:44:19 INFO     192.168.41.96 - - [03/Jan/2022 17:44:19] "GET /deteksi HTTP/1.1" 200 -
+2022-01-03 17:44:19 INFO     192.168.41.96 - - [03/Jan/2022 17:44:19] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:19 INFO     192.168.41.96 - - [03/Jan/2022 17:44:19] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:24 INFO     192.168.41.96 - - [03/Jan/2022 17:44:24] "GET /pencarian HTTP/1.1" 200 -
+2022-01-03 17:44:24 INFO     192.168.41.96 - - [03/Jan/2022 17:44:24] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:24 INFO     192.168.41.96 - - [03/Jan/2022 17:44:24] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:44 INFO     192.168.41.96 - - [03/Jan/2022 17:44:44] "GET /pencarian HTTP/1.1" 200 -
+2022-01-03 17:44:44 INFO     192.168.41.96 - - [03/Jan/2022 17:44:44] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:44 INFO     192.168.41.96 - - [03/Jan/2022 17:44:44] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:47 INFO     192.168.41.96 - - [03/Jan/2022 17:44:47] "GET /hasilLaporan HTTP/1.1" 200 -
+2022-01-03 17:44:47 INFO     192.168.41.96 - - [03/Jan/2022 17:44:47] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:47 INFO     192.168.41.96 - - [03/Jan/2022 17:44:47] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:50 INFO     192.168.41.96 - - [03/Jan/2022 17:44:50] "GET /aboutme HTTP/1.1" 200 -
+2022-01-03 17:44:50 INFO     192.168.41.96 - - [03/Jan/2022 17:44:50] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:50 INFO     192.168.41.96 - - [03/Jan/2022 17:44:50] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:51 INFO     192.168.41.96 - - [03/Jan/2022 17:44:51] "GET /hasilLaporan HTTP/1.1" 200 -
+2022-01-03 17:44:51 INFO     192.168.41.96 - - [03/Jan/2022 17:44:51] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:51 INFO     192.168.41.96 - - [03/Jan/2022 17:44:51] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:53 INFO     192.168.41.96 - - [03/Jan/2022 17:44:53] "GET /aboutme HTTP/1.1" 200 -
+2022-01-03 17:44:53 INFO     192.168.41.96 - - [03/Jan/2022 17:44:53] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:53 INFO     192.168.41.96 - - [03/Jan/2022 17:44:53] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:44:55 INFO     192.168.41.96 - - [03/Jan/2022 17:44:55] "GET /bot HTTP/1.1" 200 -
+2022-01-03 17:44:55 INFO     192.168.41.96 - - [03/Jan/2022 17:44:55] "[36mGET /static/styles/bot.css HTTP/1.1[0m" 304 -
+2022-01-03 17:45:02 INFO     192.168.41.96 - - [03/Jan/2022 17:45:02] "GET /hasilLaporan HTTP/1.1" 200 -
+2022-01-03 17:45:02 INFO     192.168.41.96 - - [03/Jan/2022 17:45:02] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-03 17:45:02 INFO     192.168.41.96 - - [03/Jan/2022 17:45:02] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -

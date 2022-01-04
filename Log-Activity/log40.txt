@@ -1,0 +1,93 @@
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:52 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 INFO     Lihat Kanan
+2022-01-04 07:33:56 INFO     Lihat Kanan
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:57 DEBUG    Face Not Found
+2022-01-04 07:33:57 DEBUG    Face Not Found
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "GET /deteksi HTTP/1.1" 200 -
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-04 07:35:20 INFO      * Detected change in 'C:\\xampp\\htdocs\\Big_Project\\fraud\\backend\\routes.py', reloading
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:53 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:54 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:55 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 INFO     Lihat Kanan
+2022-01-04 07:33:56 INFO     Lihat Kanan
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:56 DEBUG    Face Not Found
+2022-01-04 07:33:57 DEBUG    Face Not Found
+2022-01-04 07:33:57 DEBUG    Face Not Found
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "GET /deteksi HTTP/1.1" 200 -
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-04 07:33:57 INFO     192.168.43.32 - - [04/Jan/2022 07:33:57] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-04 07:35:20 INFO      * Detected change in 'C:\\xampp\\htdocs\\Big_Project\\fraud\\backend\\routes.py', reloading

@@ -1,0 +1,20 @@
+{% extends 'index.html' %}
+
+{% block body %}
+
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Pengawas Virtual</h1>
+    </div>
+        <div id="Loader">
+            <div class="d-flex justify-content-center">
+                <div class="spinner-border text-success"  style="width: 10rem; height: 10rem;" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+        </div>
+    <div class="container">
+        <p>Mulai ujian ...</p>
+        <a class="btn btn-primary" href="{{ url_for('deteksi') }}">Mulai pengawasan Virtual</a>
+    </div>
+{% endblock %}
